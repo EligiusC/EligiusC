@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EligiusC
-- 👀 I’m interested in AI and Physics 
+- 👀 I’m interested in Programming and Physics 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
